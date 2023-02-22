@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
