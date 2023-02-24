@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Python refactorings and simplifications (#7549)
