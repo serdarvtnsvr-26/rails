@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+ultralytics 8.0.229 add model.embed() method (#7098)
