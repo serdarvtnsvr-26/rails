@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Add domain checks to CI docs page (#8714)
