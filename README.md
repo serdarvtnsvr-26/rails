@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
