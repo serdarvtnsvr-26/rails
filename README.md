@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Update Discord and Contributing Guide URLs (#9270)
