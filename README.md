@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add Neural Magic Docs integrations page (#7234)
