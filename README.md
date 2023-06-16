@@ -1,1 +1,1 @@
-Add estimate_speed(region_color) parameter (#8285)
+ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
