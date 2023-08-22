@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Update Docs Home and Neural Magic pages (#7243)
