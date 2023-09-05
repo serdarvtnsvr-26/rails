@@ -1,1 +1,1 @@
-YAML reformat (#7669)
+Batch inference fixes (#8854)
