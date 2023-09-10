@@ -1,1 +1,1 @@
-ultralytics 8.1.2 scope HUB-SDK imports (#7596)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
