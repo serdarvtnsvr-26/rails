@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Fix undefined ‘im_array’ bug in predict.md (#8565)
