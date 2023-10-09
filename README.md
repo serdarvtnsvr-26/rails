@@ -1,1 +1,1 @@
-Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
