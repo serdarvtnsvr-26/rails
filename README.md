@@ -1,1 +1,1 @@
-Add new @Retry() decorator (#7854)
+Docs partial mdformat improvements (#7378)
