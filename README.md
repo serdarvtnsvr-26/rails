@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Add docstrings to new HUB functions (#7576)
