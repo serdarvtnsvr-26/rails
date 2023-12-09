@@ -1,1 +1,1 @@
-Link checks SSL insecure robustness (#7853)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
