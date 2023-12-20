@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Fix docs H1 tags (#7182)
