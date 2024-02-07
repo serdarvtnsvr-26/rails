@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
