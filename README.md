@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Add plot_images conf_thresh parameter (#8446)
