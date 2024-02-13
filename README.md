@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
