@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+fix yolo classify model loading error (#9196)
