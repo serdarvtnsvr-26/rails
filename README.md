@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Update neural-magic.md (#7347)
