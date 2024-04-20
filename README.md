@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Update OpenVINO INT8 export (#7515)
