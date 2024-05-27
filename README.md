@@ -1,1 +1,1 @@
-Update Roboflow segmentation Docs pages (#8094)
+Merge pull request #22 from SkalskiP/patch-1
