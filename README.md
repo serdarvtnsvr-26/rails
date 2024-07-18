@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+Add millimeters in solutions/distance_caculation.py + object-cropping.md visuals (#7860)
