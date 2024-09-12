@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
