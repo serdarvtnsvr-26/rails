@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Improve Docs Modes tables (#8266)
