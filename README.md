@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+ultralytics 8.0.238 Explorer Ask AI feature and fixes (#7408)
