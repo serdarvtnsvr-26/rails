@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
